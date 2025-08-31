@@ -1,7 +1,7 @@
 package Array;
 import java.util.*;
 
-class Solution {
+class SetMatriixZeroes {
     public void setZeroes(int[][] matrix) {
         HashSet<Integer> rows=new HashSet<>();
         HashSet<Integer> cols=new HashSet<>();
